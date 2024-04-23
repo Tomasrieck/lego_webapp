@@ -1,6 +1,6 @@
 import React from "react";
 import "./css/Home.css";
-import resume from "../assets/CV.pdf";
+import resume from "../assets/resume.pdf";
 import application from "../assets/lego_application.pdf";
 import profile_img from "../assets/profile.jpg";
 import bgImg from "../assets/LEGO_background.jpg";
@@ -60,8 +60,8 @@ function Home() {
               <div className="text">
                 <h1>Welcome to my website 👋</h1>
                 <h2>
-                  To showcase my interest in LEGO, I have built an AI that can
-                  recognize LEGO bricks! <br />
+                  To showcase my interest in a job opportunity at LEGO, I have
+                  built an AI that can recognize LEGO bricks! <br />
                   Click the button below to learn more. You can also view my
                   application and my resume by clicking the buttons below.
                 </h2>
@@ -101,5 +101,5 @@ function Home() {
     </>
   );
 }
-// Accuracy: 73.83%
+
 export default Home;

@@ -107,11 +107,27 @@ function Code() {
             )}
           </div>
         </div>
-        <div className="repo">
-          <FaGithub size={30} />
-          <a href="https://github.com/Tomasrieck/lego_app">
-            Click on this link to view code
-          </a>
+        <div className="repo_grp">
+          <div className="repo">
+            <FaGithub size={30} />
+            <a
+              href="https://github.com/tomasrieck/lego_AI"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Check out the code for the AI here
+            </a>
+          </div>
+          <div className="repo">
+            <FaGithub size={30} />
+            <a
+              href="https://github.com/Tomasrieck/lego_webapp"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Check out the code for this website here
+            </a>
+          </div>
         </div>
       </div>
     </div>

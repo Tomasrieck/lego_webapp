@@ -8,7 +8,7 @@ import Code from "./pages/Code.js";
 const root = createRoot(document.getElementById("root"));
 
 root.render(
-  <Router>
+  <Router basename="/lego_webapp">
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="code" element={<Code />} />
