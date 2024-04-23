@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/lego_webapp/static/css/main.630a66f5.css",
-    "main.js": "/lego_webapp/static/js/main.6bcfde82.js",
+    "main.css": "/lego_webapp/static/css/main.db9eb937.css",
+    "main.js": "/lego_webapp/static/js/main.096fb8b9.js",
     "static/media/code.png": "/lego_webapp/static/media/code.90cd0c3ddc04a31e310e.png",
-    "static/media/CV.pdf": "/lego_webapp/static/media/CV.608ff4de80198e17e207.pdf",
+    "static/media/resume.pdf": "/lego_webapp/static/media/resume.1de623dc939bfd62752c.pdf",
     "static/media/LEGO_background.jpg": "/lego_webapp/static/media/LEGO_background.139e135b8a0ab12f5ecd.jpg",
     "static/media/profile.jpg": "/lego_webapp/static/media/profile.649356f5c33a4a9cbb3f.jpg",
     "static/media/lego_application.pdf": "/lego_webapp/static/media/lego_application.cb0da866e07071383923.pdf",
@@ -13,11 +13,11 @@
     "static/media/peg.png": "/lego_webapp/static/media/peg.b7bda416c00d8cc90e74.png",
     "static/media/loader.svg": "/lego_webapp/static/media/loader.f617fc969ee3e10edf9f6dac73a556c8.svg",
     "index.html": "/lego_webapp/index.html",
-    "main.630a66f5.css.map": "/lego_webapp/static/css/main.630a66f5.css.map",
-    "main.6bcfde82.js.map": "/lego_webapp/static/js/main.6bcfde82.js.map"
+    "main.db9eb937.css.map": "/lego_webapp/static/css/main.db9eb937.css.map",
+    "main.096fb8b9.js.map": "/lego_webapp/static/js/main.096fb8b9.js.map"
   },
   "entrypoints": [
-    "static/css/main.630a66f5.css",
-    "static/js/main.6bcfde82.js"
+    "static/css/main.db9eb937.css",
+    "static/js/main.096fb8b9.js"
   ]
 }
