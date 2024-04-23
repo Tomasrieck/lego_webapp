@@ -1,6 +1,6 @@
 {
   "name": "application",
-  "homepage": "http://tomasrieck.github.io/application",
+  "homepage": "https://tomasrieck.github.io/lego_webapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -16,8 +16,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
