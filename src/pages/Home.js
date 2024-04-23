@@ -1,7 +1,7 @@
 import React from "react";
 import "./css/Home.css";
 import resume from "../assets/resume.pdf";
-import application from "../assets/lego_application.pdf";
+import application from "../assets/application.pdf";
 import profile_img from "../assets/profile.jpg";
 import bgImg from "../assets/LEGO_background.jpg";
 import { Link } from "react-router-dom";
