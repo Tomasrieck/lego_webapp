@@ -58,12 +58,12 @@ function Home() {
             <div className="header">
               <img src={profile_img} alt="profile" />
               <div className="text">
-                <h1>Welcome to my website 👋</h1>
+                <h1>Welcome 👋</h1>
                 <h2>
                   To showcase my interest in a job opportunity at LEGO, I have
                   built an AI that can recognize LEGO bricks! <br />
                   Click the button below to learn more. You can also view my
-                  application and my resume by clicking the buttons below.
+                  cover letter and my resume.
                 </h2>
               </div>
             </div>

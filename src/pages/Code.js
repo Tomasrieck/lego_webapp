@@ -23,7 +23,7 @@ function Code() {
     setLoading(true);
     setTimeout(() => {
       setLoading("finished");
-    }, 1200);
+    }, 1250);
   }
 
   return (
@@ -35,8 +35,8 @@ function Code() {
           different LEGO bricks.
         </h3>
         <h3>
-          The model takes a 400x400 image of one of the 50 LEGO bricks and
-          returns the LEGO Item No. it guesses the brick in the image to be.
+          The model takes an image of one of the 50 LEGO bricks and returns the
+          LEGO Item No. it guesses the brick in the image to be.
           <br />
           Using a Convolutional Neural Network, the model can recognize a LEGO
           brick with an accuracy of 73.83%.
