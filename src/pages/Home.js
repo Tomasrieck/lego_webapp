@@ -60,10 +60,10 @@ function Home() {
               <div className="text">
                 <h1>Welcome 👋</h1>
                 <h2>
-                  To showcase my interest in a job opportunity at LEGO, I have
-                  built an AI that can recognize LEGO bricks! <br />
+                  To show my interest in a job opportunity at LEGO, I have built
+                  an AI that can recognize LEGO bricks! <br />
                   Click the button below to learn more. You can also view my
-                  cover letter and my resume.
+                  cover letter and resume.
                 </h2>
               </div>
             </div>

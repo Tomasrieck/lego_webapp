@@ -36,14 +36,14 @@ function Code() {
         </h3>
         <h3>
           The model takes an image of one of the 50 LEGO bricks and returns the
-          LEGO Item No. it guesses the brick in the image to be.
+          LEGO item number of the predicted brick.
           <br />
           Using a Convolutional Neural Network, the model can recognize a LEGO
           brick with an accuracy of 73.83%.
         </h3>
         <h3>
           Feel free to select one of the LEGO bricks, run the code, and see what
-          Item No. the model guesses for the LEGO brick you have chosen.
+          Item No. the model predicts for the LEGO brick you have chosen.
         </h3>
         <div className="images">
           {bricks.slice(0, 2).map((brick) => {
